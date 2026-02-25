@@ -1,0 +1,5 @@
+*.json
+exec
+*.exe
+KUNDER_UT.DTA
+SONER_UT.DTA
